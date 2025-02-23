@@ -1,0 +1,25 @@
+body {
+    background-color: #f4f4f9;
+    color: #3b3c5c;
+}
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+footer {
+    background-color: #0d6efd;
+    color: white;
+}
+.timeline {
+    border-left: 4px solid #6c63ff;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+.timeline-event {
+    margin-bottom: 20px;
+}
+.timeline-event h5 {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
